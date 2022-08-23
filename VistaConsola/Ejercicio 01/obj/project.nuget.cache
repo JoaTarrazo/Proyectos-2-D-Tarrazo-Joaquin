@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIWhJzp5q8H+v5cYMj1/FYn6y9ZE67GosCt55pfRavNogBHlQYsEyo88Oc5XV7tTuH4ODNrpdLzU4C5H7Sn9Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaco\\Desktop\\Joa UTN III\\Programacion y laboratorio II\\Proyectos 2022\\VistaConsola\\Ejercicio 01\\Ejercicio 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

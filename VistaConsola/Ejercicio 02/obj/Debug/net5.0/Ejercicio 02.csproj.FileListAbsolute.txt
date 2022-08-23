@@ -1,0 +1,16 @@
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.exe
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.deps.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.runtimeconfig.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.runtimeconfig.dev.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\bin\Debug\net5.0\Ejercicio 02.pdb
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.csproj.AssemblyReference.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.AssemblyInfoInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.AssemblyInfo.cs
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\refint\Ejercicio 02.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.pdb
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\Ejercicio 02.genruntimeconfig.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\Ejercicio 02\obj\Debug\net5.0\ref\Ejercicio 02.dll

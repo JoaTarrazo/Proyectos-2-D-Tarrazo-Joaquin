@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5TGsmZ24e0b34ILjLDAol2G2jbmZKt4ELx60kAFx1C07fW2f897cwCJ3IcPQi1BBVjmbY0fhLu/ENfWINU4lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaco\\Desktop\\Joa UTN III\\Programacion y laboratorio II\\Proyectos 2022\\VistaConsola\\VistaConsola\\Introduccion clase 0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.exe
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.deps.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.runtimeconfig.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.runtimeconfig.dev.json
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\bin\Debug\net5.0\Introduccion clase 0.pdb
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.csproj.AssemblyReference.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.AssemblyInfoInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.AssemblyInfo.cs
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\refint\Introduccion clase 0.dll
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.pdb
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\Introduccion clase 0.genruntimeconfig.cache
+C:\Users\Joaco\Desktop\Joa UTN III\Programacion y laboratorio II\Proyectos 2022\VistaConsola\VistaConsola\obj\Debug\net5.0\ref\Introduccion clase 0.dll
